@@ -5,7 +5,7 @@ Changes to the robot's configuration can be made without the need for a PC
 ## Installation Guide
 Just drag and drop the project's src file and include file into the corresponding folder of your project
 ## Contribution
-Dove-ctrl (USST-VEX)
+Dove-ctrl (2941178026@qq.com)
 ## Version history
 ### elementOS 1.1
 Two different programs can be selected to cope with the game, and can be debugged without being connected to the field controller
