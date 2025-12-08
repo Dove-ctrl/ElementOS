@@ -12,3 +12,5 @@ Two different programs can be selected to cope with the game, and can be debugge
 ### elementOS 1.2 (2024.8.29)
 Enhance the information display function of the PC terminal.
 Fixed an issue in the previous version where frequent communication between the remote controller and the main controller caused the connection to be interrupted
+### elementOS 2.0 (2025.12.8)
+Redesigned the system interface and interaction logic, introduced multi-level menus for viewing and editing more information, and laid groundwork for WebSocket integration.
