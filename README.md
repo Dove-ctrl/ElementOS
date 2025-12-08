@@ -1,6 +1,5 @@
 # ElementOS
 An operating system for solving human-computer interaction problems with VEX robots
-The updates have now ceased and are integrated into the control program.
 ## Main features
 Changes to the robot's configuration can be made without the need for a PC
 ## Installation Guide
